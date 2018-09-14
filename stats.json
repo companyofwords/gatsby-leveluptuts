@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-94a83b760daba1bcf8fd.js",
+      "component---src-pages-index-js-94a83b760daba1bcf8fd.js.map"
+    ],
+    "path---posts-our-second-post": [
+      "path---posts-our-second-post-71b011519ff943d01ae8.js",
+      "path---posts-our-second-post-71b011519ff943d01ae8.js.map"
+    ],
+    "path---": [
+      "path----8b25d8539c6b14b580e9.js",
+      "path----8b25d8539c6b14b580e9.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-4940d3a053c95b2c8b3c.js",
+      "component---src-layouts-index-js-4940d3a053c95b2c8b3c.js.map"
+    ],
+    "path---index": [
+      "path---index-c462655d858f7faf3999.js",
+      "path---index-c462655d858f7faf3999.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-ba4cb63d6a7a0250cd9f.js",
+      "commons-ba4cb63d6a7a0250cd9f.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-components-posts-post-page-js": [
+      "component---src-components-posts-post-page-js-422ac65c2c36efa4e5ad.js",
+      "component---src-components-posts-post-page-js-422ac65c2c36efa4e5ad.js.map"
+    ],
+    "app": [
+      "app-7206a4ff6fe0dbadea00.js",
+      "build-js-styles.css",
+      "app-7206a4ff6fe0dbadea00.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-9778ef69a3f2cb337ae3.js",
+      "component---src-pages-about-js-9778ef69a3f2cb337ae3.js.map"
+    ],
+    "path---posts-post": [
+      "path---posts-post-f517f5ff422cb8668b90.js",
+      "path---posts-post-f517f5ff422cb8668b90.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
